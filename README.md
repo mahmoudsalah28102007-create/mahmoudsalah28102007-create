@@ -1,43 +1,24 @@
-# Hi, I'm Mahmoud Salah 👋
+# 💫 About Me:
+Aspiring Computer Scientist | Python Developer<br><br>Passionate about Computer Science, programming, and technology.<br><br>Currently learning Python, strengthening my problem-solving skills, and building practical projects.<br><br>Interested in exploring new technologies and developing software solutions.<br><br>Learning, building, and improving every day.
 
-Aspiring Computer Science student and Python learner who is building a strong foundation in programming, problem-solving, and technology.
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudsalah28102007@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mahmuod7s) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MahmoudSalah-py7nt) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mahmoud Salah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmoudsalah28102007@gmail.com) 
 
-- 🎓 Studying Computer Science and exploring how software and systems work
-- 🐍 Learning Python and improving my programming fundamentals
-- 🧠 Interested in logic, problem-solving, and building useful projects
-- 📚 Committed to continuous learning and self-improvement
-- 🚀 Working toward becoming a skilled developer and future tech professional
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahmoudsalah28102007-create&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mahmoudsalah28102007-create&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoudsalah28102007-create&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- Python
-- Git and GitHub
-- Problem solving
-- Basic programming logic
-- Computer science fundamentals
-
-## Current Focus
-
-- Strengthening Python knowledge
-- Learning programming concepts step by step
-- Practicing logic and algorithms
-- Building small projects to apply what I learn
-- Exploring different areas of Computer Science
-
-## Goals
-
-- Become more confident in programming
-- Learn core CS concepts
-- Build practical projects
-- Improve my GitHub profile and portfolio
-- Keep growing as a developer
-
-## Contact
-
-- GitHub: https://github.com/mahmoudsalah28102007-create
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahmoudsalah28102007-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mahmoudsalah28102007-create&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thanks for visiting my profile! ⭐
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
