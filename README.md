@@ -4,7 +4,7 @@
 
 I'm interested in computer science, programming, and building software that solves real problems.
 
-I'm currently learning Python, strengthening my problem-solving skills, and working on practical coding projects.
+I'm learning Python, developing my problem-solving skills, and practising through coding exercises and small projects.
 
 ---
 
@@ -12,18 +12,16 @@ I'm currently learning Python, strengthening my problem-solving skills, and work
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudsalah28102007-create)
 
-> I’ve only included the GitHub profile link here because I don't have a confirmed LinkedIn or other personal contact URL to publish.
-
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 What I'm Working On
+## 📌 Focus
 
-- Improving my Python skills.
-- Practising programming and problem-solving.
-- Building small projects and exploring software development.
+- Python programming
+- Problem-solving and programming fundamentals
+- Exploring software development
 
 ## 📊 GitHub Stats
 
